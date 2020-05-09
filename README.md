@@ -16,4 +16,4 @@ go into the directory containing the tcl files, then execute the following comma
 
 run perl script for the calculations (check project description)
 
-
+`perl perl_script.pl tracefilename.tr`
