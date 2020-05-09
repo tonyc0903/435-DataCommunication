@@ -4,6 +4,7 @@ Projects for my 435 course
 For the final project, run it on a linux machine
 
 run the following commands:
+
 `sudo apt-get install ns2`
 
 `sudo apt-get install tcl8.6`
