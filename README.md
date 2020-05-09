@@ -11,7 +11,8 @@ run the following commands:
 
 
 go into the directory containing the tcl files, then execute the following command
-ns tclFilename.tcl
+
+`ns tclFilename.tcl`
 
 run perl script for the calculations (check project description)
 
