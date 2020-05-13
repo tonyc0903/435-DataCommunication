@@ -1,5 +1,5 @@
 # 435DataCommunication
-Projects for my 435 course
+Projects for my Data Communication course at college
 
 For the final project, run it on a linux machine
 
